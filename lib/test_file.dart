@@ -1,1 +1,1 @@
-class Test {hello}
+class Test {}
